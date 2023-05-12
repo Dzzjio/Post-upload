@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Wellcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia expedita ",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "title": "Dance like a mega dance",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia expedita ",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "Xval sirbili uee hahahahha",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia expedita ",
+      "likes": 30
+    },
+    {
+      "title": "we need job",
+      "body": "do small steps but never stop biatchhh\n",
+      "likes": 0,
+      "id": 4
+    }
+  ]
+}
